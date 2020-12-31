@@ -1,3 +1,3 @@
-# Transparent-Card
-
-Clean transparent UI design of a Debit Card.
+# Transparent-Card 
+Glassmorphism UI design of a Debit Card using HTML and CSS only.
+This is not a responsive design.
